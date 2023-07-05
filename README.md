@@ -15,6 +15,6 @@ _____________________
 - Strategic value: Cloud services give firms a competitive edge by supplying the most cutting-edge technology available.
  
 
-![alt text](https://edoxi.com/admin/assets/img/studyhub/Benefits_of_Cloud_Computing.webp.png)
+![alt text](https://edoxi.com/admin/assets/img/studyhub/Benefits_of_Cloud_Computing.png)
 
 
