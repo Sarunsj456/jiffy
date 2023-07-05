@@ -13,7 +13,7 @@ _____________________
 - Accessibility: Cloud services offer unrestricted access to data and programs from any place and on any internet-connected device. Employees may now access resources 
   and work on projects from anywhere in the world, enabling remote work and collaboration while also boosting productivity.
 - Collaboration & Flexibility: Teams may work together smoothly using cloud-based collaboration tools and services, sharing and modifying documents in real time. File-sharing and cloud storage solutions offer a central location for information, making it simple to view and collaborate on work from many devices.
-- Strategic value: Cloud services give firms a competitive edge by supplying the most cutting-edge technology available.
+- Security: To safeguard infrastructure and data, cloud service companies make significant investments in security measures. To protect against cyber attacks, they use sophisticated encryption, access restrictions, and frequent security upgrades. 
  
 
 ![alt text](https://tflive.wpenginepowered.com/wp-content/uploads/2020/01/benefits_of_cloud_computing.jpg)
