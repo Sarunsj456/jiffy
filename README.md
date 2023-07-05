@@ -20,6 +20,7 @@ _____________________
 
 
 ## **Background Of The JIFFY.ai**
+__________________________________
 ![alt text](https://static.crozdesk.com/web_app_library/providers/logos/000/008/508/box/jiffy.ai-1669210952-logo.png?1669210952.jpg)
 
 This research analyzes the  JIFFY.ai company's  today IT infrastructure,customer services and cloud strategy. Jiffy.ai is an artificial intelligence (AI) and automation platform provider founded in 2018. Jiffy.ai offers an AI-powered automation platform that combines technologies such as robotic process automation (RPA), artificial intelligence (AI), and machine learning (ML). The platform enables businesses to automate repetitive tasks, optimize processes, and improve productivity.
