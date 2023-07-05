@@ -15,6 +15,6 @@ _____________________
 - Strategic value: Cloud services give firms a competitive edge by supplying the most cutting-edge technology available.
  
 
-![alt text]( https://www.techfunnel.com/wp-content/uploads/2020/01/benefits_of_cloud_computing.jpg.png)
+![alt text]( https://www.techfunnel.com/wp-content/uploads/2020/01/benefits_of_cloud_computing.png)
 
 
