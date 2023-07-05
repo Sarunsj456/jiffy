@@ -6,7 +6,7 @@
 
 ### **INTRODUCTION**
 ________________
-Major IT technical issues are difficult for businesses to manage. To avoid integration issues, security concerns, and the risk of cyber hacking to their systems and data, check the existing hardware to see if it is compatible with the new technology before installing it in the business. It's time to reconsider the goals of technology and see whether there are any alternatives to internal IT networks. Fortunately, there are further cloud computing possibilities. The emergence of cloud computing gave SMEs the chance to once again take charge of their IT infrastructure. With cloud computing, you can manage every IT issue affecting your business while keeping complete control.
+Businesses find it challenging to manage significant IT-related technical challenges. Before integrating the new technology into the company, make sure the existing hardware is compatible in order to avoid integration problems, security issues, and the risk of cyber hacking to their systems and data. It's time to reexamine technology's objectives and determine whether there are any options besides internal IT networks. There are fortunately more applications for cloud computing. With the advent of cloud computing, SMEs now have the chance to regain control over their IT infrastructure. You can manage every IT issue affecting your company while maintaining total control with cloud computing.
 
 ## Benefits of cloud 
 _____________________
@@ -15,6 +15,6 @@ _____________________
 - Strategic value: Cloud services give firms a competitive edge by supplying the most cutting-edge technology available.
  
 
-![alt text](https://www.techfunnel.com/wp-content/uploads/2020/01/benefits_of_cloud_computing.png)
+![alt text](https://edoxi.com/admin/assets/img/studyhub/Benefits_of_Cloud_Computing.png)
 
 
