@@ -28,7 +28,7 @@ This research analyzes the  JIFFY.ai company's  today IT infrastructure,customer
 ### Current IT Set Up Of Jiffy.AI
 ______________________
 
-Currently, the infrastructure for the system is located on-site.For Jiffy.ai, 80 employees are employed. They are using machine learning (ML), robotic process automation (RPA), and artificial intelligence (AI) to build their software applications. Certain virtual machine technologies exist in the cloud.In essence, they are building everything in a private cloud setting, and they have chosen Microsoft Azure as their cloud service provider.
+Currently, the infrastructure for the Company is located on-site.For Jiffy.ai, 80 employees are employed. They are using machine learning (ML), robotic process automation (RPA), and artificial intelligence (AI) to build their software applications. Certain virtual machine technologies exist in the cloud.In essence, they are building everything in a private cloud setting, and they have chosen Microsoft Azure as their cloud service provider.
 
 
 
