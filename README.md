@@ -82,7 +82,7 @@ A cloud-ready application's deployment architecture is always influenced by the 
 ## Why is Microsoft Azure the best choice?
 __________________________________________
 
-![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_sYB4ViOEBhnuHBjCg2f2g.png)
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_sYB4ViOEBhnuHBjCg2f2g.jpg)
 
 - The existing IT environment and Microsoft Azure seamlessly connect. It offers a protected hybrid database, data residency, storage options, and Azure Stack (Azure style of application development), leading to an expanded IT infrastructure, lower costs, and increased flexibility. Businesses are switching to Microsoft Azure as a result of these scalable offerings.
   
