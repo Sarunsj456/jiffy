@@ -98,7 +98,12 @@ ______________
 
 -  Microsoft Azure service provider [ Microsoft Azure website]:(https://azure.microsoft.com/en-us/get-started/azure-portal)
 -  Jiffy.Ai website - (https://jiffy.ai/)
+-  Docker support (https://docs.docker.com/cloud/aci-integration/)
+-	Docker Support - Microsoft (https://learn.microsoft.com/en-us/azure/app-service/tutorial-custom-container?tabs=azure-cli&pivots=container-linux)
 -  Cloud Computing from Beginning to End by Ray J Rafaels.
+-  Pearson, S., 2009, May. Taking account of privacy when designing cloud computing services. In 2009 ICSE Workshop on Software Engineering Challenges of Cloud Computing (pp. 44-52). IEEE.
+-  Voorsluys, W., Broberg, J. and Buyya, R., 2011. Introduction to cloud computing. Cloud computing: Principles and paradigms, pp.1-41.
+-  Fehling, C., Leymann, F., Retter, R., Schupeck, W. and Arbitter, P., 2014. Cloud computing patterns: fundamentals to design, build, and manage cloud applications. Springer Science & Business Media.
 
   
 
